@@ -1,0 +1,15 @@
+C:\Users\vladi\Desktop\Projekt\Massive\obj\Debug\net6.0\Massive.csproj.AssemblyReference.cache
+C:\Users\vladi\Desktop\Projekt\Massive\obj\Debug\net6.0\Massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Desktop\Projekt\Massive\obj\Debug\net6.0\Massive.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\Projekt\Massive\obj\Debug\net6.0\Massive.AssemblyInfo.cs
+C:\Users\vladi\Desktop\Projekt\Massive\obj\Debug\net6.0\Massive.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\Projekt\Massive\bin\Debug\net6.0\Massive.exe
+C:\Users\vladi\Desktop\Projekt\Massive\bin\Debug\net6.0\Massive.deps.json
+C:\Users\vladi\Desktop\Projekt\Massive\bin\Debug\net6.0\Massive.runtimeconfig.json
+C:\Users\vladi\Desktop\Projekt\Massive\bin\Debug\net6.0\Massive.dll
+C:\Users\vladi\Desktop\Projekt\Massive\bin\Debug\net6.0\Massive.pdb
+C:\Users\vladi\Desktop\Projekt\Massive\obj\Debug\net6.0\Massive.dll
+C:\Users\vladi\Desktop\Projekt\Massive\obj\Debug\net6.0\refint\Massive.dll
+C:\Users\vladi\Desktop\Projekt\Massive\obj\Debug\net6.0\Massive.pdb
+C:\Users\vladi\Desktop\Projekt\Massive\obj\Debug\net6.0\Massive.genruntimeconfig.cache
+C:\Users\vladi\Desktop\Projekt\Massive\obj\Debug\net6.0\ref\Massive.dll
